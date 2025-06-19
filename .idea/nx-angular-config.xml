@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="NxAngularConfigService" workspaceLocation="file://$PROJECT_DIR$/nx.json">
+    <projects>
+      <project name="angular-store" file="file://$PROJECT_DIR$/angular-monorepo/apps/angular-store/project.json" />
+      <project name="angular-store-e2e" file="file://$PROJECT_DIR$/angular-monorepo/apps/angular-store-e2e/project.json" />
+      <project name="feature-listing" file="file://$PROJECT_DIR$/angular-monorepo/catalog/feature-listing/project.json" />
+    </projects>
+  </component>
+</project>
